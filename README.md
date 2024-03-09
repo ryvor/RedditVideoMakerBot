@@ -1,6 +1,11 @@
 # Reddit Video Maker Bot 🎥
 
+---
+
 ### THIS IS A FORK OF [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+
+In this fork, i have applied a few fixes / changes to the script to improve usability.
+---
 
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
 
