@@ -1,5 +1,7 @@
 # Reddit Video Maker Bot 🎥
 
+### THIS IS A FORK OF [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
 
 Created by Lewis Menelaws & [TMRRW](https://tmrrwinc.ca)
